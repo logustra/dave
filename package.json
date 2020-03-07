@@ -1,0 +1,17 @@
+{
+  "name": "7ad",
+  "version": "1.0.0",
+  "description": "7ad is a reasonable system for creating clean architecture in frontend",
+  "keywords": [
+    "7-1pattern",
+    "atomic-design",
+    "ddd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/logustra/7ad"
+  },
+  "bugs": "https://github.com/logustra/7ad/issues",
+  "author": "Faizal Andyka Putra",
+  "license": "MIT"
+}
