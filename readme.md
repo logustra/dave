@@ -1,5 +1,5 @@
 ## 7AD (Sevenad)
-7ad is a reasonable system for creating clean architecture in frontend
+Reasonable system for creating clean architecture in frontend
 
 ## Example
   - [Vue](https://github.com/logustra/vuad)
