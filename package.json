@@ -1,5 +1,5 @@
 {
-  "name": "7ad",
+  "name": "dave",
   "version": "1.0.0",
   "description": "Reasonable system for creating clean architecture in frontend",
   "keywords": [
@@ -10,9 +10,9 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/logustra/7ad"
+    "url": "https://github.com/logustra/dave"
   },
-  "bugs": "https://github.com/logustra/7ad/issues",
+  "bugs": "https://github.com/logustra/dave/issues",
   "author": "Faizal Andyka Putra",
   "license": "MIT",
   "scripts": {

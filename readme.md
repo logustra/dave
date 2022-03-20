@@ -1,5 +1,5 @@
-## 7AD (Sevenad)
-[![License](https://img.shields.io/github/license/logustra/7ad)](https://github.com/logustra/7ad/blob/master/license.md)
+## Dave
+[![License](https://img.shields.io/github/license/logustra/dave)](https://github.com/logustra/dave/blob/master/license.md)
 
 > Reasonable system for creating clean architecture in frontend
 
